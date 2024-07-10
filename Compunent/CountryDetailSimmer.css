@@ -1,0 +1,19 @@
+.image{
+    width: 38vw;
+    height: 45vh;
+    background-color: #ccc;
+}
+.h1-tag{
+    width: 150px;
+    height: 30px;
+    background-color: #ccc;
+    margin-bottom: 2rem;
+}
+.pargraph{
+    width: 80px;
+    height: 20px;
+    background-color: #ccc;
+}
+.country-details {
+    /* margin-top: 0; */
+}
